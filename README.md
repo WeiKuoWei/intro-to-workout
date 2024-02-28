@@ -1,4 +1,4 @@
-<h1>給爸爸的生日禮物</h1>
+<h1 style="text-align: center"> 給爸爸的生日禮物</h1>
 <h2>目錄</h2>
 
 - [我們的目標](#我們的目標)
@@ -35,23 +35,23 @@
 # 人體骨骼和肌肉指南
 ## 手臂
 ### 正面圖
-<img src="arm_front.jpg" alt="arm_front" width="500">
+<img style="display: block; margin: 0 auto;" style="display: block; margin: 0 auto;" src="arm_front.jpg" alt="arm_front" width="500">
 
 ### 全面圖
-<img src="arm.jpg" alt="arm" width="500">
+<img style="display: block; margin: 0 auto;" src="arm.jpg" alt="arm" width="500">
 
 ## 胸部
-<img src="chest.jpg" alt="chest" width="500">
+<img style="display: block; margin: 0 auto;" src="chest.jpg" alt="chest" width="500">
 
 ## 側腹
-<img src="side.jpg" alt="side" width="500">\
+<img style="display: block; margin: 0 auto;" src="side.jpg" alt="side" width="500">
 
 ## 背部
-<img src="back.jpg" alt="back" width="500">
+<img style="display: block; margin: 0 auto;" src="back.jpg" alt="back" width="500">
 
 ## 腿部
 ### 正面圖
-<img src="leg_front.jpg" alt="leg_front" width="500">
+<img style="display: block; margin: 0 auto;" src="leg_front.jpg" alt="leg_front" width="500">
 
 ### 背面圖
-<img src="leg_back.jpg" alt="leg_back" width="500">
+<img style="display: block; margin: 0 auto;" src="leg_back.jpg" alt="leg_back" width="500">
