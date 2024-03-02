@@ -57,13 +57,13 @@
 ## 2.3. 單關節運動
 在做單關節運動(比如說，側平舉、腿伸、腿曲等等)的時候要格外小心，並建議降低重量，增加組數。這是因為在運動時，收力支點都在同一個關節，非常容易受傷。
 
-## 2.4. 練胸、練肩、練背與練腿的原則
+## 2.4. 練肩、練胸、練背與練腿的原則
 ### 2.4.1. 練肩
 這個是健身最危險的部位，而且一旦受傷恢復的時間也最長的。如何避免[尖峰撞擊](https://youtu.be/PeYFGBz-i8M?si=QxdXbgNET82_aEYU)這個影片請好好看看。
 
 
 ### 2.4.2. 練胸
-練胸部的時候請好好注意自己的肩膀，絕對不可以[聳肩](https://youtu.be/LjldfLkxfnI?si=PiObzARrYc6pwXx0)，很容易受傷。訓練胸部肌群的時候請遵守抬頭挺胸，肩膀向後下沉的原則。
+練胸部的時候請好好注意自己的肩膀，絕對不可以[聳肩](https://www.youtube.com/watch?v=mEO0HaPHZ6Q)，很容易受傷。訓練胸部肌群的時候請遵守抬頭挺胸，肩膀向後下沉的原則。
 
 ### 2.4.3. 練背
 練背的時候請謹記[收好肩胛骨](https://www.youtube.com/watch?v=nDKJDSQnB_k)的原則。
@@ -113,7 +113,7 @@
 - 腿：腿部肌群
 
 ## 4.1. 推
-3組，每組10-12次
+每個動作3組，每組10-12次
 *注意聳肩與關節彈響的問題！*
 1. 胸推  
    ![alt text](image.png)
@@ -127,7 +127,7 @@
    ![alt text](image-16.png)
 
 ## 4.2. 拉
-3組，每組10-12次
+每個動作3組，每組10-12次
 1. 高位下拉  
    *手腕跟小手臂在同一直線上。拉到底的時候收緊肩頰骨，不聳肩、不駝背*
    ![alt text](image-2.png)
@@ -173,7 +173,7 @@
 - [如果爸爸想自己規劃訓練菜單](https://www.youtube.com/watch?v=xePCiRs8Hfg&list=PLi_zHK_mGGhbw5pfqL2RIXqY7BrwbHDzP&index=5)
 - [有效率的發力，針對目標肌群](https://www.youtube.com/watch?v=1vmiqq_LMPM&list=PLi_zHK_mGGhbw5pfqL2RIXqY7BrwbHDzP&index=6)
 
-# 7. 人體肌肉指南與對應的伸展運動
+# 7. 人體肌肉指南
 
 
 ## 7.1. 手臂
@@ -198,3 +198,5 @@
 
 ### 7.5.2. 背面圖
 <img style="display: block; margin: 0 auto;" src="leg_back.jpg" alt="leg_back" width="500">
+
+# 8. 爸脫爸脫
