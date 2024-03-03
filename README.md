@@ -71,7 +71,7 @@
 ### 2.4.4. 練腿
 練腿個人認為相對簡單，原則上就分成大腿跟小腿兩個部分。大腿的訓練主要是深蹲，小腿的訓練主要是提踵。
 - [練腿科普](https://www.youtube.com/watch?v=LjldfLkxfnI)
-- [深蹲既瞟](https://www.youtube.com/watch?v=2J9zsFwhF2Q)
+- [深蹲技巧](https://www.youtube.com/watch?v=2J9zsFwhF2Q)
 
 
 
